@@ -1,0 +1,4 @@
+rootProject.name = 'ez-multi-module-groovy'
+
+include 'library'
+include 'application'
